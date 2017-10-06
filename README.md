@@ -7,7 +7,7 @@ Right now it only contains a few emojis, but don't worry There is more to come i
 
 **Still free to contribute with this package. We need tests and more emojis**
 
-The proposal of this package is to add emojis to an web chat opensource make with
+The proposal of this package is to add emojis to a web chat opensource made with
 Elm and Elixir, promoted by [Yarilabs](http://www.yarilabs.com/).
 
 The chat code links will be soon accessible to the public, and they'll be added to
